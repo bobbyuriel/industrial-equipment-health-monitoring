@@ -26,4 +26,4 @@ Citation information will be added after publication.
 
 ## License
 
-Hardware documentation, software, and supporting materials are distributed under their respective open-source licenses.
+Hardware documentation, software, and supporting materials are distributed under their respective open-source licenses. 
