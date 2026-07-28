@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Open-source ESP32-Based Dual-Modal Vibration and Acoustic Monitoring Platform for Low-Cost Predictive Maintenance of Industrial Equipment"
+message: "If you use this project, please cite the associated HardwareX publication."
+type: software
+
+authors:
+  - family-names: "Octaviano"
+    given-names: "Bobby Uriel"
+
+license: MIT
+
+repository-code: "https://github.com/bobbyuriel/industrial-equipment-health-monitoring"
+
+abstract: >
+  Open-source industrial equipment health monitoring platform using an ESP32,
+  MEMS vibration sensing, and acoustic monitoring for predictive maintenance.
+
+keywords:
+  - ESP32
+  - Predictive Maintenance
+  - Condition Monitoring
+  - HardwareX
