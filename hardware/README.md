@@ -6,6 +6,4 @@ This directory contains all hardware-related files for the project.
 
 - Circuit schematics
 - Wiring diagrams
-- PCB files (if applicable)
 - CAD enclosure
-- Mechanical drawings
