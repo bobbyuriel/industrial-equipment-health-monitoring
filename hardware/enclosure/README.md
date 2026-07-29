@@ -1,17 +1,14 @@
-# Enclosure Design Files
+# Enclosure
 
-This folder contains the mechanical design documentation for Version 1.0 of the enclosure.
+This folder contains the mechanical design documentation for the Version 1.0 enclosure.
 
 ## Files
 
-### enclosure_dimensions.pdf
-Dimensioned drawing of the enclosure.
+| File | Description |
+|------|-------------|
+| `enclosure_dimensions.pdf` | Dimensioned enclosure drawing. |
+| `enclosure_four_view.pdf` | Orthographic views of the enclosure. |
+| `enclosure_isometric.pdf` | Isometric view of the assembled enclosure. |
+| `enclosure_concept.pdf` | Final enclosure design concept. |
 
-### enclosure_four_view.pdf
-Orthographic front, rear, left, and right views.
-
-### enclosure_isometric.pdf
-Three-dimensional visualization of the assembled enclosure.
-
-### enclosure_concept.pdf
-Final enclosure concept used for fabrication.
+These files document the physical enclosure used to house the ESP32, sensors, and supporting electronics.
